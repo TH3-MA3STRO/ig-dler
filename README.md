@@ -1,7 +1,7 @@
 # ig-dler
 A GUI based tool which you can use to download DP, highlights, stories, posts of an instagram
 profile without using the official instagram API
-![alt text](gui_ss.jpg)
+![alt text](image/gui_ss.jpg)
 
 
 #### __Prerequisites__

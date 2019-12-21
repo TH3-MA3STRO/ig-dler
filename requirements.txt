@@ -1,0 +1,6 @@
+json
+requests
+bs4
+pickle
+pyqt5
+lxml
